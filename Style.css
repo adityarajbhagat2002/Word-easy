@@ -1,3 +1,28 @@
 body{
+    background: #c4f0ff;
+    background : -webkit-linear-gradient(to right, #9dd5f2,#74bade);
+    background : linear-gradient(to right, #9dd5f2,#74bade)
+    
+}
+
+.responsive{
+    max-width: 75%;
+    height :auto;
+
+}
+
+img{
+    padding : 15px;
+}
+
+.display-box{
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.scroll-box{
+    overflow-y : auto;
+    height: 500px;
+    float:left;
     
 }
